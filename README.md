@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @robinchang-pi
-- 👀 Data science and machine learning are my hobbies and would like to contribute in this field.
+- 👀 Data science with ML and Deep Learning is my hobby and would like to contribute in this field.
 - 🌱 live and learn
 - 💞️ I’m looking to collaborate on Kaggle.
 - 📫 My email address is robinchang.pi@gmail.com
