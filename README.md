@@ -4,8 +4,10 @@
 - 💞️ I’m looking to collaborate on Kaggle.
 - 📫 My email address is robinchang.pi@gmail.com
 - ✔  My starting point, 
--       ![TansorFlow](https://user-images.githubusercontent.com/87687988/154616957-4a963a48-1e72-46b4-8795-922743e08d7e.jpg) https://www.credential.net/30a30226-b2c4-4a59-bc52-cf985777f5b6#gs.fhs4bl
--       ![DP-100](https://user-images.githubusercontent.com/87687988/154617066-403087b4-93a5-44a8-a02c-2e53e144af64.jpg) https://www.credly.com/badges/80b84496-e7c7-441c-99aa-1898c09acc41
+-       ![image](https://user-images.githubusercontent.com/87687988/154617214-27a09eec-5fa5-4f66-b3f4-c17692ba8af6.png)
+ https://www.credential.net/30a30226-b2c4-4a59-bc52-cf985777f5b6#gs.fhs4bl
+-       ![image](https://user-images.githubusercontent.com/87687988/154617269-5b5ece26-c8f8-47ec-bff6-2245df6351cf.png)
+ https://www.credly.com/badges/80b84496-e7c7-441c-99aa-1898c09acc41
 
 
 
